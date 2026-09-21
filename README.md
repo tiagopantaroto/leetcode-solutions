@@ -6,6 +6,7 @@
 | ------- |
 | [0035-search-insert-position](https://github.com/tiagopantaroto/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tiagopantaroto/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/tiagopantaroto/leetcode-solutions/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/tiagopantaroto/leetcode-solutions/tree/master/0217-contains-duplicate) |
 ## Hash Table
 |  |
@@ -31,4 +32,8 @@
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tiagopantaroto/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/tiagopantaroto/leetcode-solutions/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
