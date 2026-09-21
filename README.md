@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/tiagopantaroto/leetcode-solutions/tree/master/0035-search-insert-position) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/tiagopantaroto/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/tiagopantaroto/leetcode-solutions/tree/master/0217-contains-duplicate) |
 ## Hash Table
 |  |
@@ -26,4 +27,8 @@
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/tiagopantaroto/leetcode-solutions/tree/master/0125-valid-palindrome) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/tiagopantaroto/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
