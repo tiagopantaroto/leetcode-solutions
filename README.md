@@ -15,6 +15,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/tiagopantaroto/leetcode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/tiagopantaroto/leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [3945-digit-frequency-score](https://github.com/tiagopantaroto/leetcode-solutions/tree/master/3945-digit-frequency-score) |
 ## Sorting
 |  |
 | ------- |
@@ -51,6 +52,7 @@
 | ------- |
 | [0231-power-of-two](https://github.com/tiagopantaroto/leetcode-solutions/tree/master/0231-power-of-two) |
 | [3783-mirror-distance-of-an-integer](https://github.com/tiagopantaroto/leetcode-solutions/tree/master/3783-mirror-distance-of-an-integer) |
+| [3945-digit-frequency-score](https://github.com/tiagopantaroto/leetcode-solutions/tree/master/3945-digit-frequency-score) |
 ## Recursion
 |  |
 | ------- |
