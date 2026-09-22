@@ -50,6 +50,7 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/tiagopantaroto/leetcode-solutions/tree/master/0231-power-of-two) |
+| [3783-mirror-distance-of-an-integer](https://github.com/tiagopantaroto/leetcode-solutions/tree/master/3783-mirror-distance-of-an-integer) |
 ## Recursion
 |  |
 | ------- |
