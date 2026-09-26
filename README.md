@@ -10,12 +10,14 @@
 | [0136-single-number](https://github.com/tiagopantaroto/leetcode-solutions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/tiagopantaroto/leetcode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/tiagopantaroto/leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0500-keyboard-row](https://github.com/tiagopantaroto/leetcode-solutions/tree/master/0500-keyboard-row) |
 | [3668-restore-finishing-order](https://github.com/tiagopantaroto/leetcode-solutions/tree/master/3668-restore-finishing-order) |
 ## Hash Table
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/tiagopantaroto/leetcode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/tiagopantaroto/leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0500-keyboard-row](https://github.com/tiagopantaroto/leetcode-solutions/tree/master/0500-keyboard-row) |
 | [3668-restore-finishing-order](https://github.com/tiagopantaroto/leetcode-solutions/tree/master/3668-restore-finishing-order) |
 | [3945-digit-frequency-score](https://github.com/tiagopantaroto/leetcode-solutions/tree/master/3945-digit-frequency-score) |
 ## Sorting
@@ -40,6 +42,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/tiagopantaroto/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/tiagopantaroto/leetcode-solutions/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/tiagopantaroto/leetcode-solutions/tree/master/0125-valid-palindrome) |
+| [0500-keyboard-row](https://github.com/tiagopantaroto/leetcode-solutions/tree/master/0500-keyboard-row) |
 ## Dynamic Programming
 |  |
 | ------- |
