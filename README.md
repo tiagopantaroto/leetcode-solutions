@@ -11,6 +11,7 @@
 | [0169-majority-element](https://github.com/tiagopantaroto/leetcode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/tiagopantaroto/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0500-keyboard-row](https://github.com/tiagopantaroto/leetcode-solutions/tree/master/0500-keyboard-row) |
+| [0821-shortest-distance-to-a-character](https://github.com/tiagopantaroto/leetcode-solutions/tree/master/0821-shortest-distance-to-a-character) |
 | [3668-restore-finishing-order](https://github.com/tiagopantaroto/leetcode-solutions/tree/master/3668-restore-finishing-order) |
 ## Hash Table
 |  |
@@ -36,6 +37,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/tiagopantaroto/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/tiagopantaroto/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/tiagopantaroto/leetcode-solutions/tree/master/0125-valid-palindrome) |
+| [0821-shortest-distance-to-a-character](https://github.com/tiagopantaroto/leetcode-solutions/tree/master/0821-shortest-distance-to-a-character) |
 ## String
 |  |
 | ------- |
@@ -43,6 +45,7 @@
 | [0058-length-of-last-word](https://github.com/tiagopantaroto/leetcode-solutions/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/tiagopantaroto/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0500-keyboard-row](https://github.com/tiagopantaroto/leetcode-solutions/tree/master/0500-keyboard-row) |
+| [0821-shortest-distance-to-a-character](https://github.com/tiagopantaroto/leetcode-solutions/tree/master/0821-shortest-distance-to-a-character) |
 ## Dynamic Programming
 |  |
 | ------- |
